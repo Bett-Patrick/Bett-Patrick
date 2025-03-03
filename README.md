@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Patrick Bett</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Store Center, a warehouse webApp**
+- 🔭 I’m currently working on **SokoLink, a second hand furniture e-commerce website**
 
 - 🌱 I’m currently learning **React, APIs, Flask and other libraries**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **HTML,CSS,JS,Flask,Python,Android**
+- 💬 Ask me about **HTML,CSS,JS,React,Flask,Python,tailwindcss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
