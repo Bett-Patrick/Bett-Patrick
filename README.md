@@ -7,15 +7,15 @@ Computer Science graduate from Kenya with hands-on experience developing real-wo
 
 ---
 
-## 🚀 Current Work
+## Current Work
 
-- 🔭 Building **SokoLink** — a second-hand furniture e-commerce platform  
-- 💼 Open to internship and junior software engineering opportunities  
-- 👯 Interested in collaborating on impactful open-source projects  
+-  Building **SokoLink** — a second-hand furniture e-commerce platform  
+-  Open to internship and junior software engineering opportunities  
+-  Interested in collaborating on impactful open-source projects  
 
 ---
 
-## 🧠 What I Work With
+##  What I Work With
 
 - Frontend: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js  
 - Backend: Python, Flask, REST APIs  
@@ -24,35 +24,35 @@ Computer Science graduate from Kenya with hands-on experience developing real-wo
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 🛒 PharmaPlus — Pharmacy E-commerce System  
+###  PharmaPlus — Pharmacy E-commerce System  
 Live: https://pharmaplus.co.ke  
 Responsive web platform for a pharmacy chain with dashboards, stock alerts, and sales tracking.
 
-### 🎓 Atibule — Online Learning Platform  
+###  Atibule — Online Learning Platform  
 Live: https://atibule.com  
 Full-stack e-learning system with course management, authentication, and admin dashboards.
 
-### 🪑 SokoLink — Furniture Marketplace (In Progress)  
+###  SokoLink — Furniture Marketplace (In Progress)  
 Second-hand furniture e-commerce platform connecting buyers and sellers.
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 
 HTML • CSS • JavaScript • React • Flask • Python • APIs • Tailwind CSS
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - 📧 Email: bettpatrick080@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/patrick-bett
 
 ---
 
-## 🛠 Languages and Tools
+##  Languages and Tools
 
 <p align="left">
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
