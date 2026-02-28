@@ -10,7 +10,7 @@ Computer Science graduate from Kenya with hands-on experience developing real-wo
 ## Current Work
 
 -  Building **SokoLink** — a second-hand furniture e-commerce platform  
--  Open to internship and junior software engineering opportunities  
+-  Open to internship and junior to mid-level software engineering opportunities  
 -  Interested in collaborating on impactful open-source projects  
 
 ---
